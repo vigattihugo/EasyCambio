@@ -1,0 +1,9 @@
+com\portfolio\easycambio\model\Resultado.class
+com\portfolio\easycambio\client\FrankfurterClient.class
+com\portfolio\easycambio\exception\CurrencyException.class
+com\portfolio\easycambio\exception\InvalidCurrencyException.class
+com\portfolio\easycambio\Main.class
+com\portfolio\easycambio\model\ExchangeRates.class
+com\portfolio\easycambio\client\CurrencyClient.class
+com\portfolio\easycambio\service\ConverterService.class
+com\portfolio\easycambio\exception\NetworkException.class

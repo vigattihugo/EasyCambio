@@ -4,6 +4,9 @@ O **EasyCambio** é uma aplicação simples e robusta para linha de comando (CLI
 
 Este projeto foi desenvolvido focando em consumo de APIs REST e os principais pilares da **Programação Orientada a Objetos (POO)**.
 
+<img width="1852" height="972" alt="Captura de tela 2026-06-15 101613" src="https://github.com/user-attachments/assets/471508c8-cf01-47ae-8352-a078fca09864" />
+
+
 ---
 
 ## Tecnologias Utilizadas
